@@ -1,0 +1,25 @@
+{
+  "name": "parsec-area-data",
+  "version": "1.1.2",
+  "description": "parsec-area-data To provide developers with national, national, provincial, national, provincial, municipal and provincial regional data cascades.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hqwlkj/parsec-area-data"
+  },
+  "bugs": {
+    "url": "https://github.com/hqwlkj/parsec-area-data/issues"
+  },
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yanghc",
+  "license": "ISC",
+  "keywords":["area","country","area-data","parsec"],
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-umd": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
